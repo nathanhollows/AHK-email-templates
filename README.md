@@ -22,6 +22,8 @@ AHK Email Templates is an AutoHotkey script that boosts your email productivity 
 3. A menu will pop up listing all your templates. Use the arrow keys to navigate and press `Enter` to select the template you wish to insert.
 4. The content of the selected template will be pasted into your email.
 
+![image](https://github.com/nathanhollows/AHK-email-templates/assets/13064427/796e6b96-8922-4c15-a854-a4beb76e4f5d)
+
 ### Adding Templates
 
 - To add a new template, create a `.txt` file in the `Templates` folder or within a subfolder. The script will automatically recognize new templates.
