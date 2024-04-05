@@ -1,6 +1,6 @@
 # AHK Email Templates
 
-AHK Email Templates is an AutoHotkey script that boosts your email productivity by allowing you to quickly insert pre-defined templates into your emails. With the simple press of `Ctrl` + `Shift` + `T`, a menu pops up, letting you choose from a variety of templates stored in `.txt` files. This is perfect for responding to common inquiries, sending standard updates, or anything that you find yourself typing repeatedly.
+AHK Email Templates is an AutoHotkey script that boosts your email productivity by allowing you to quickly insert pre-defined templates into your emails. With the simple press of `Ctrl` + `Shift` + `t`, a menu pops up, letting you choose from a variety of templates stored in `.txt` files. This is perfect for responding to common inquiries, sending standard updates, or anything that you find yourself typing repeatedly.
 
 ## Features
 
