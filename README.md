@@ -12,8 +12,8 @@ AHK Email Templates is an AutoHotkey script that boosts your email productivity 
 ## Installation
 
 1. Ensure you have AutoHotkey installed on your system. If not, download and install it from [https://www.autohotkey.com/](https://www.autohotkey.com/).
-2. Clone this repository or download the ZIP file and extract it to your preferred location.
-3. Navigate to the extracted folder and double-click `EmailTemplates.ahk` to run the script.
+2. Clone this repository or [download the ZIP](https://github.com/nathanhollows/AHK-email-templates/archive/refs/heads/main.zip) file and extract it.
+3. Navigate to the folder and double-click `TemplatesShortcut.ahk` to run the script.
 
 ## Usage
 
